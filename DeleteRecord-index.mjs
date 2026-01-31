@@ -67,3 +67,4 @@ export const handler = async (event) => {
 
   return await paramQuery();
 };
+
